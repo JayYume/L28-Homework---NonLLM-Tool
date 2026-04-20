@@ -1,4 +1,3 @@
-# tool.py
 # ---------------------------------------------------------
 # Tool Name : calculate_password_entropy
 # Domain    : Cybersecurity

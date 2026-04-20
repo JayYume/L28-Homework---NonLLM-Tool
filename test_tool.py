@@ -1,4 +1,4 @@
-# test_tool.py
+
 import pytest
 from tool import calculate_password_entropy
 
